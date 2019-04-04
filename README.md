@@ -6,7 +6,7 @@ This is an example ready-to-deploy java web application built for Tomcat using M
 
 (need maven and java installed)
 
-```
+``````
 mvn package
 java -jar target/dependency/webapp-runner.jar target/*.war
 ```
